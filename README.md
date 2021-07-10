@@ -5,7 +5,8 @@
  - Email Id : swaroopa205@gmail.com 
  - Phone    : +91 8790066779 
  - Address  : Tadepalligudem 
- ### Educational Details 
+ 
+### Educational Details 
  **M.Tech**
   - College Name: ANITS 
   - Branch      : Machine Design
